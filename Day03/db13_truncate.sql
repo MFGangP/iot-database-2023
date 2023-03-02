@@ -1,0 +1,11 @@
+INSERT INTO procTBL (TOTAL_NAME)
+VALUES ('BBK');
+
+SELECT * FROM procTBL;
+
+DELETE FROM proctbl WHERE ID = 3;
+
+DELETE FROM proctbl;
+
+-- 완전초기화
+TRUNCATE proctbl;
