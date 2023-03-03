@@ -16,7 +16,18 @@ IoT 개발자과정 데이터베이스
 
 # 3일차
 1. MySQL 학습
-    - [X] SQL기본
-        -
+    - [X] SQL기본 CRUD 
+        - [X] INSERT
+        - [X] SELECT
+        - [X] UPDATE
+        - [X] DELETE
     - [X] SQL 고급
-        -
+        - [X] INNER JOIN
+# 4일차
+1. MySQL 학습
+    - [X] SQL 고급
+        - [X] OUTER JOIN
+        - [X] TABLE, VIEW
+        - [X] INDEX  
+2. [X] MySQL활용
+    - [X] BookRentalShop 쿼리 연습
