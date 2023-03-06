@@ -81,7 +81,7 @@ SELECT m.Names AS '이름'
  
  -- 책을 두 권 이상 출판한 저자
 SELECT bb.Author
-     , bb.Division
+--     , bb.Division
      , d.Names AS '장르'
      , bb.출판권수
      , bb.합계금액
