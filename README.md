@@ -1,6 +1,8 @@
 # iot-database-2023
 IoT 개발자과정 데이터베이스
 
+! [MySQL] (https://github.com/MFGangP/iot-database-2023/blob/main/images/MySQL.png)
+
 # 1일차
 1. MySQL 학습
     - [X] 데이터베이스 개요
@@ -90,3 +92,9 @@ SELECT m.Names AS '회원명'
   FROM membertbl AS m
  ORDER BY m.Names ASC;
 ```
+
+# 5일차
+1. MySQL 활용
+    - BookRentalShop 쿼리 연습
+2. 코딩테스트
+    - BookRentalShop
